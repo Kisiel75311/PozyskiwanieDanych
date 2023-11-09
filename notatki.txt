@@ -1,0 +1,9 @@
+Metody oparte na cechach:
+
+    Detektory krawędzi (np. Sobel, Canny): Wykorzystują gradienty obrazu do wykrywania krawędzi.
+    HOG (Histogramy Zorientowanych Gradientów): Wykorzystywane często w detekcji ludzi.
+    SIFT (Scale-Invariant Feature Transform) i SURF (Speeded-Up Robust Features): Do detekcji i opisu lokalnych cech w obrazach.
+
+Metody oparte na regionach:
+
+    Algorytm wyszukiwania okien: Przeszukiwanie obrazu przy użyciu różnych rozmiarów i proporcji okien w celu wykrycia obiektów.

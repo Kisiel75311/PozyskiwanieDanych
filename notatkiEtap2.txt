@@ -1,0 +1,15 @@
+insert oparty na select
+na dużych ilości danych
+
+update czy delete bardziej złożone 
+Opisy tranzakcji, co ma być zmieniane
+Złożone warunki w where z podzapytań (nie na id), 
+
+wyświetlanie wszystkich danych odpada,
+muszą być where, obliczenia, group by, warunki obliczeniowe, filtrowanie na podstawie wyliczonego warunku, 
+zawsze elementy obliczeniowe i pobierane z tabel, obok nich wyniki jakiegoś dodatkowego kryterium (np. na podstaweie daty)
+Zapytania mają być złożone, za mała złożoność. 
+podzapytanie ma nie zwracać pojedyńczej wartości
+połączone tabele i dokumenty które występowały najczęściej 
+zakresy i przetwarzanie funkcji w atrybutach
+Zapytania powinny wykonywać się kilka sekund
